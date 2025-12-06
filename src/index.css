@@ -1,0 +1,6 @@
+/* Basic reset and global styles if needed, though MUI CssBaseline handles mostly */
+body {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
