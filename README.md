@@ -1,6 +1,6 @@
 # GymTrack
 
-GymTrack is a fully frontend React application designed for tracking gym performances. It focuses on a clean, developer-centric aesthetic and uses a unique interactive muscle-map interface for navigation.
+GymTrack is a fully frontend application designed for tracking gym performances. It focuses on a simple UI and easy navigation. I recently started a gym journey focused on increasing my performances, so I decided to make an app to make the tracking easier. The end goal is to support adding exercises, modifying them. Set up workouts with exercise selection and capture each gym session's set, rep and weight to generate weekly graphics for seeing progress.
 
 ## Features
 
